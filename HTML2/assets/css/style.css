@@ -1,0 +1,44 @@
+
+.feature-box-small-icon.center {
+    text-align: center;
+}
+.box-fx .inner, .dark .box-fx .inner {
+    border-bottom-color: #F06807;
+}
+.box-fx .inner {
+    position: relative;
+    overflow: hidden;
+    border: solid 1px black;
+}
+
+.box-fx .front {
+    padding: 60px 0 60px 0;
+}
+.feature-box-small-icon.center i {
+    position: inherit;
+    float: none;
+    display: inline-block;
+    margin-bottom: 20px;
+    border: none;
+    font-size: 60px;
+    background: none;
+    padding: 0px;
+}
+.feature-box-small-icon h3 {
+    line-height: normal;
+    margin-bottom: 5px;
+}
+h3 {
+    margin-top: 0;
+    font-size: 18px;
+    letter-spacing: .5px;
+}
+
+.box-fx .front span {
+    font-size: 14px;
+}
+
+
+.box-fx .front {
+    padding: 60px 0 60px 0;
+}
